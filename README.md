@@ -30,3 +30,8 @@ example: cd /d Y:\Test Folder\PDFMereger)
 
 5.To find the executable file, open the dist folder: PDFMergerMain
 
+# If you want to tweek it
+Use the PDFMergerMain.py file
+
+# If you want to download the executable version
+check: PDFMergerApp folder
