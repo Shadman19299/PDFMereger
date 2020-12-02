@@ -11,6 +11,8 @@ Description: This script merges two pdf into one and put them in a folder called
 
 Python Version Used: python3.9, Fundamental Packages: os, pathlib, PyPDF2, tkinter(for GUI)
 
+check: "log.txt" file in the destination folder to find naming issues. "
+
 Date Modified: 11/6/2020
 
 """
