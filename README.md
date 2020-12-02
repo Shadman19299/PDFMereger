@@ -21,7 +21,10 @@ Date Modified: 11/6/2020
 
 2.open terminal.
 
-3.cd Path:\to\PDFMergerMain.py
+3.cd Path:\to\PDFMergerMain.py. 
+(for changing directory to a network drive use: /d after cd. 
+example: cd /d Y:\Test Folder\PDFMereger)  
+
 
 4.pyinstaller --onefile PDFMergerMain.py
 
