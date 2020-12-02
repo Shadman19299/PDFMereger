@@ -11,9 +11,13 @@ Date Modified: 11/6/2020
 
 """
 # Make The file Executable using pyinstallar
-1.install pyinstaller(follow instruction on link: https://pypi.org/project/pyinstaller/) '\t'
-open terminal.
-cd Path:\to\file
-pyinstaller --onefile PDFMergerMain.py
-To find the executable file, open the dist folder: PDFMergerMain
+1.install pyinstaller(follow instruction on link: https://pypi.org/project/pyinstaller/).
+
+2.open terminal.
+
+3.cd Path:\to\PDFMergerMain.py
+
+4.pyinstaller --onefile PDFMergerMain.py
+
+5.To find the executable file, open the dist folder: PDFMergerMain
 
